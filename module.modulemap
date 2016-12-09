@@ -1,5 +1,5 @@
 module Cbgfx [system] {
   header "bgfx.h"
-  link "bgfxDebug"
+  link "bgfx-shared-libDebug"
   export *
 }
